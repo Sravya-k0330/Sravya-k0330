@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=180&section=header&text=Sravya%20K&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="./assets/name-banner.svg" width="600" alt="Sravya K"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=00D9C0&center=true&vCenter=true&width=560&height=40&lines=AI%2FML+Engineer;GenAI+%26+RAG+Systems;MLOps+%2F+Kubernetes+%2F+CI-CD;Data+Engineering+at+Scale" alt="Typing SVG" />
 
@@ -10,10 +10,10 @@
   <img src="https://img.shields.io/badge/🌐_Portfolio-View_Site-00D9C0?style=for-the-badge&labelColor=0B0E14" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/sravya-k85/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0E14" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0E14" alt="LinkedIn" />
 </a>
 
-<img src="./assets/tech-orbit.svg" width="360" alt="tech stack orbit animation"/>
+<img src="./assets/tech-orbit.svg" width="380" alt="tech stack orbit animation"/>
 
 </div>
 
