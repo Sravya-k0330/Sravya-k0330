@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-<img src="./assets/tech-orbit.svg" width="300" alt="tech stack orbit animation"/>
+<img src="./assets/tech-orbit.gif" width="380" alt="tech stack orbit animation"/>
 </div>
 
 ---
