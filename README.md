@@ -32,17 +32,24 @@ I build ML systems that ship — from data pipelines and model training to GenAI
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-Proxy-blueviolet?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Gen-blueviolet?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blueviolet?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-blueviolet?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-blueviolet?style=flat-square)
 
 **🤖 Machine Learning / Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB0028?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-8B7FFF?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 **⚙️ MLOps / Platform Engineering**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![KEDA](https://img.shields.io/badge/KEDA-Event%20Driven%20Autoscaling-326CE5?style=flat-square)
 ![Seldon Core](https://img.shields.io/badge/Seldon_Core-Model%20Serving-black?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
@@ -71,6 +78,24 @@ I build ML systems that ship — from data pipelines and model training to GenAI
 </p>
 
 <table align="center">
+<tr>
+<td colspan="2" valign="top">
+<div align="center">
+
+### 🏆 AI/ML Data Platform — Churn Prediction + GenAI Support Assistant
+<img src="https://skillicons.dev/icons?i=python,docker,kubernetes,aws,terraform" height="32"/>
+
+**One end-to-end system spanning every layer: ETL → ML → MLOps → GenAI/RAG → IaC → Kubernetes → GitOps CI/CD → Observability.**
+
+For a health-insurance-style use case: predicts member churn risk **and** powers a support-agent AI assistant that answers policy questions via hybrid RAG.
+
+`XGBoost` `SHAP` `MLflow` `FAISS` `MCP` `Terraform` `ArgoCD` `KEDA` `Prometheus`
+
+[**View Repository →**](https://github.com/Sravya-k0330/ai-ml-data-platform)
+
+</div>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <div align="center">
@@ -140,7 +165,7 @@ I build ML systems that ship — from data pipelines and model training to GenAI
 <td align="center" width="25%">
 
 <img src="https://skillicons.dev/icons?i=github" height="36"/><br><br>
-<img src="https://img.shields.io/badge/3-Public%20Repositories-00D9C0?style=for-the-badge&labelColor=121820"/>
+<img src="https://img.shields.io/badge/4-Public%20Repositories-00D9C0?style=for-the-badge&labelColor=121820"/>
 
 </td>
 <td align="center" width="25%">
@@ -152,7 +177,7 @@ I build ML systems that ship — from data pipelines and model training to GenAI
 <td align="center" width="25%">
 
 <img src="https://skillicons.dev/icons?i=python" height="36"/><br><br>
-<img src="https://img.shields.io/badge/3-Production%20ML%20Pipelines-FFB86B?style=for-the-badge&labelColor=121820"/>
+<img src="https://img.shields.io/badge/4-Production%20ML%20Pipelines-FFB86B?style=for-the-badge&labelColor=121820"/>
 
 </td>
 <td align="center" width="25%">
@@ -165,7 +190,7 @@ I build ML systems that ship — from data pipelines and model training to GenAI
 </table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,aws,git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,aws,terraform,git" height="40"/>
 </p>
 <p align="center">
   <sub>Python · Docker · Kubernetes · AWS · Git — across data engineering, ML, GenAI/RAG, and MLOps</sub>
