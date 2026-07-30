@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=00D9C0&center=true&vCenter=true&width=560&height=40&lines=AI%2FML+Engineer;GenAI+%26+RAG+Systems;MLOps+%2F+Kubernetes+%2F+CI-CD;Data+Engineering+at+Scale" alt="Typing SVG" />
 
-<br><br>
+<br>
 
 <a href="https://sravya-k0330.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-View_Site-00D9C0?style=for-the-badge&labelColor=0B0E14" alt="Portfolio" />
@@ -13,12 +13,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0E14" alt="LinkedIn" />
 </a>
 
-</div>
+<img src="./assets/tech-orbit.svg" width="380" alt="tech stack orbit animation"/>
 
-<br>
-
-<div align="center">
-<img src="./assets/tech-orbit.gif" width="380" alt="tech stack orbit animation"/>
 </div>
 
 ---
