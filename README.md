@@ -16,6 +16,14 @@
 
 ---
 
+<div align="center">
+
+<img src="./assets/tech-orbit.svg" width="480" alt="tech stack orbit animation"/>
+
+</div>
+
+---
+
 ## 🧠 What I Do
 
 | Area | Where it shows up |
@@ -106,8 +114,3 @@ Production-grade data platform on real NYC TLC trip data (~38M rows).
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1e3a8a&height=100&section=footer" width="100%"/>
 
 </div>
-
-
-## 🌐 Portfolio
-
-🔗 https://sravya-k0330.github.io/portfolio/
