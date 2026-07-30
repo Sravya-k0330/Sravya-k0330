@@ -10,10 +10,10 @@
   <img src="https://img.shields.io/badge/🌐_Portfolio-View_Site-00D9C0?style=for-the-badge&labelColor=0B0E14" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/sravya-k85/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0E14" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0E14" alt="LinkedIn" />
 </a>
 
-<img src="./assets/tech-orbit.svg" width="380" alt="tech stack orbit animation"/>
+<img src="./assets/tech-orbit.svg" width="360" alt="tech stack orbit animation"/>
 
 </div>
 
@@ -23,42 +23,67 @@
 
 <table>
 <tr>
-<td width="20%"><b>🔧 Data Engineering</b></td>
+<td width="26%">
+
+![Data Engineering](https://img.shields.io/badge/🔧_Data_Engineering-00D9C0?style=for-the-badge&labelColor=0B0E14)
+
+</td>
 <td>
 
-`Spark` `Kafka` `Airflow` — batch + streaming over **38M+ records**, Bronze→Silver→Gold architecture
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+<br>Batch + streaming over **38M+ records** · Bronze → Silver → Gold architecture
 
 </td>
 </tr>
 <tr>
-<td><b>📊 Data Science</b></td>
 <td>
 
-Feature engineering, **PR-AUC over accuracy** on imbalanced data, documented model cards
+![Data Science](https://img.shields.io/badge/📊_Data_Science-FFB86B?style=for-the-badge&labelColor=0B0E14)
+
+</td>
+<td>
+
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![PR--AUC](https://img.shields.io/badge/-PR--AUC-FFB86B?style=flat-square)
+<br>Metric-honest evaluation on imbalanced data · documented model cards
 
 </td>
 </tr>
 <tr>
-<td><b>🤖 Machine Learning</b></td>
 <td>
 
-`scikit-learn` pipelines (RandomForest, GradientBoosting, LogReg), from-scratch **SMOTE**
+![Machine Learning](https://img.shields.io/badge/🤖_Machine_Learning-8B7FFF?style=for-the-badge&labelColor=0B0E14)
+
+</td>
+<td>
+
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![SMOTE](https://img.shields.io/badge/-SMOTE_(from_scratch)-8B7FFF?style=flat-square)
+<br>RandomForest · GradientBoosting · Logistic Regression pipelines
 
 </td>
 </tr>
 <tr>
-<td><b>🧬 GenAI / LLM / RAG</b></td>
 <td>
 
-`LiteLLM` multi-provider gateway + **TF-IDF RAG retrieval**, graceful fallback on LLM failure
+![GenAI RAG](https://img.shields.io/badge/🧬_GenAI_/_LLM_/_RAG-8B7FFF?style=for-the-badge&labelColor=0B0E14)
+
+</td>
+<td>
+
+![LiteLLM](https://img.shields.io/badge/-LiteLLM-8B7FFF?style=flat-square) ![RAG](https://img.shields.io/badge/-TF--IDF_RAG-8B7FFF?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+<br>Multi-provider LLM gateway with graceful fallback on failure
 
 </td>
 </tr>
 <tr>
-<td><b>🚢 MLOps</b></td>
 <td>
 
-`Docker` → `Kubernetes` (HPA, canary) → CI/CD with **auto-rollback**, Prometheus/Grafana drift monitoring
+![MLOps](https://img.shields.io/badge/🚢_MLOps-00D9C0?style=for-the-badge&labelColor=0B0E14)
+
+</td>
+<td>
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+<br>CI/CD with **auto-rollback** · canary deploys · drift monitoring
 
 </td>
 </tr>
