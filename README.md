@@ -142,6 +142,36 @@ For a health-insurance-style use case: predicts member churn risk **and** powers
 </div>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+
+### 🏀 NBA Player Stats ETL Pipeline
+<img src="https://skillicons.dev/icons?i=python" height="32"/>
+
+**Selenium-scraped historical NBA per-game stats, cleaned and enriched with pandas, loaded to CSV or SQL Server.**
+
+`Selenium` `pandas` `pytest` `SQL Server`
+
+[**View Repository →**](https://github.com/Sravya-k0330/nba-player-stats-etl)
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+
+### 📡 Real-Time & Batch Data Pipeline with Kafka
+<img src="https://skillicons.dev/icons?i=python,docker" height="32"/>
+
+**Streams synthetic data through Kafka into PostgreSQL, then batch-summarizes it with rolling averages — fully containerized.**
+
+`Kafka` `PostgreSQL` `Docker Compose`
+
+[**View Repository →**](https://github.com/Sravya-k0330/realtime-batch-kafka-pipeline)
+
+</div>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -165,7 +195,7 @@ For a health-insurance-style use case: predicts member churn risk **and** powers
 <td align="center" width="25%">
 
 <img src="https://skillicons.dev/icons?i=github" height="36"/><br><br>
-<img src="https://img.shields.io/badge/4-Public%20Repositories-00D9C0?style=for-the-badge&labelColor=121820"/>
+<img src="https://img.shields.io/badge/6-Public%20Repositories-00D9C0?style=for-the-badge&labelColor=121820"/>
 
 </td>
 <td align="center" width="25%">
@@ -177,7 +207,7 @@ For a health-insurance-style use case: predicts member churn risk **and** powers
 <td align="center" width="25%">
 
 <img src="https://skillicons.dev/icons?i=python" height="36"/><br><br>
-<img src="https://img.shields.io/badge/4-Production%20ML%20Pipelines-FFB86B?style=for-the-badge&labelColor=121820"/>
+<img src="https://img.shields.io/badge/6-Production%20ML%20Pipelines-FFB86B?style=for-the-badge&labelColor=121820"/>
 
 </td>
 <td align="center" width="25%">
